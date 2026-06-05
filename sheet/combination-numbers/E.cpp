@@ -11,7 +11,7 @@ for(char c: s){
    st.insert(tolower(c));
 }
 if(st.size()==26){
-    cout<<"YES"<<endl;
+    cout<<"YES";
 }else{
     cout<<"NO";
 }
